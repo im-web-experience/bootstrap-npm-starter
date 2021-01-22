@@ -1,0 +1,18 @@
+// Customize some defaults
+// $body-color: purple;
+// $body-bg: #f5f5f5;
+$border-radius: .3rem;
+$primary:  #0073b6;
+$secondary: #717171;
+$success: #006000;
+$info: #006699;
+$warning: #de7400;
+$danger: #e60700;
+$light: #f9f9f9;
+$dark: #444;
+$link-hover-color: #00436a;
+
+@import "bootstrap/scss/functions"; // Required
+@import "bootstrap/scss/variables"; // Required
+@import "bootstrap/scss/mixins"; // Required
+@import "bootstrap/scss/utilities";
